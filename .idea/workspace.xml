@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8458332-93f4-45f3-8e90-05203630404e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/feature-engineering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_engineering/datasets/Telco-Customer-Churn.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_engineering/datasets/application_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_engineering/datasets/course_reviews.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature_engineering/datasets/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missing_values_practice.py" afterDir="false" />
+    <list default="true" id="a8458332-93f4-45f3-8e90-05203630404e" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/local_outlier_factor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_engineering/datasets/Telco-Customer-Churn.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.local_outlier_factor.executor": "Run",
     "Python.missing_values_practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728856024658</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1728857348622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728857348622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
